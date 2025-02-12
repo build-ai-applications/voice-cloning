@@ -36,10 +36,8 @@ You can experiment with each model using the provided links:
 - **Moderate performance:** CoquiTTS (balanced results but high spectral distortion).
 - **Least recommended:** OpenVoice (low PESQ, less realistic output).
 
-
 ## 🔗 References
-- Research papers on voice cloning and speech synthesis.
-- Documentation for OpenVoice, CoquiTTS, F5-TTS, and E2-TTS.
-- AI community benchmarks for objective speech evaluation.
+- [**OpenVoice**](https://github.com/myshell-ai/OpenVoice)
+- [**CoquiTTS**](https://github.com/coqui-ai/TTS)
+- [**F5-TTS**](https://github.com/SWivid/F5-TTS)
 
-For more updates and evaluations, check out the full repository on **GitHub**! 💻
