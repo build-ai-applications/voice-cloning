@@ -1,6 +1,6 @@
 # 🎤 Voice Cloning Model Evaluation
 
-## 🚀 Overview
+## ✨ Overview
 This repository provides a comprehensive evaluation of voice cloning models based on objective speech quality metrics. Our goal is to assess the effectiveness of these models in generating high-quality, intelligible, and natural-sounding voices.
 
 ## 📈 Models Evaluated
@@ -30,7 +30,7 @@ You can experiment with each model using the provided links:
 - **E2-F5-TTS:** [Try Here](https://huggingface.co/spaces/mrfakename/E2-F5-TTS)
 - **CoquiTTS:** [Try Here](https://colab.research.google.com)
 
-## 🎡 Summary & Recommendations
+## 🌁 Summary & Recommendations
 - **Best for natural voice quality:** E2-TTS (highest PESQ, lowest MCD).
 - **Best for intelligibility:** F5-TTS (highest STOI score).
 - **Moderate performance:** CoquiTTS (balanced results but high spectral distortion).
@@ -40,4 +40,7 @@ You can experiment with each model using the provided links:
 - [**OpenVoice**](https://github.com/myshell-ai/OpenVoice)
 - [**CoquiTTS**](https://github.com/coqui-ai/TTS)
 - [**F5-TTS**](https://github.com/SWivid/F5-TTS)
+
+## 📚 License
+This project is licensed under the Apache 2.0 - see the [LICENSE](LICENSE) file for details.
 
